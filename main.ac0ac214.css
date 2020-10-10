@@ -1,0 +1,2 @@
+body{background:#eee;font-family:Roboto,sans-serif;margin:0;min-height:100vh}.logo,body{display:flex;align-items:center;justify-content:center}.logo{text-transform:uppercase;background-color:#fc4b3b;color:#fff;border-radius:16px;user-select:none;width:70px;height:70px}.reject,.resolve{position:absolute;height:100px;width:100px;top:10px;border-radius:15%;font-size:20px;color:#eee;display:flex;justify-content:center;align-items:center}.resolve{left:10px;background-color:#000}.reject{right:10px;background-color:#ff4500}
+/*# sourceMappingURL=main.ac0ac214.css.map */
